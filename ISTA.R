@@ -1,3 +1,7 @@
+# implement both the shrinkage-thresholding (ISTA) and fast iterative shrinkage-thresholding (FISTA) 
+# proximal gradient descent algorithms for computing the lasso solution in linear regression
+
+
 # accel=FALSE for ISTA and accel=TRUE for FISTA
 
 ISTA=function(X,

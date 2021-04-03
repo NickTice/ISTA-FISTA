@@ -1,6 +1,4 @@
-
-
-
+# Penalized linear regression with LASSO, SCAD, and MCP penalties
 
 penalizedLin=function(
   X,
